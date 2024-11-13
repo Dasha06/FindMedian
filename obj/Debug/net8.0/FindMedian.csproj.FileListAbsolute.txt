@@ -1,0 +1,14 @@
+/home/gara/csharp/progects_not_big/FindMedian/obj/Debug/net8.0/FindMedian.GeneratedMSBuildEditorConfig.editorconfig
+/home/gara/csharp/progects_not_big/FindMedian/obj/Debug/net8.0/FindMedian.AssemblyInfoInputs.cache
+/home/gara/csharp/progects_not_big/FindMedian/obj/Debug/net8.0/FindMedian.AssemblyInfo.cs
+/home/gara/csharp/progects_not_big/FindMedian/obj/Debug/net8.0/FindMedian.csproj.CoreCompileInputs.cache
+/home/gara/csharp/progects_not_big/FindMedian/bin/Debug/net8.0/FindMedian
+/home/gara/csharp/progects_not_big/FindMedian/bin/Debug/net8.0/FindMedian.deps.json
+/home/gara/csharp/progects_not_big/FindMedian/bin/Debug/net8.0/FindMedian.runtimeconfig.json
+/home/gara/csharp/progects_not_big/FindMedian/bin/Debug/net8.0/FindMedian.dll
+/home/gara/csharp/progects_not_big/FindMedian/bin/Debug/net8.0/FindMedian.pdb
+/home/gara/csharp/progects_not_big/FindMedian/obj/Debug/net8.0/FindMedian.dll
+/home/gara/csharp/progects_not_big/FindMedian/obj/Debug/net8.0/refint/FindMedian.dll
+/home/gara/csharp/progects_not_big/FindMedian/obj/Debug/net8.0/FindMedian.pdb
+/home/gara/csharp/progects_not_big/FindMedian/obj/Debug/net8.0/FindMedian.genruntimeconfig.cache
+/home/gara/csharp/progects_not_big/FindMedian/obj/Debug/net8.0/ref/FindMedian.dll
